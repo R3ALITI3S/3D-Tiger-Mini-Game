@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "IKDUProject.sln"
+    "dotnet.defaultSolution": "Tiger.sln"
 }
